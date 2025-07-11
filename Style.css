@@ -1,0 +1,23 @@
+
+.first{
+    display: flex;
+    align-items: center;
+    background-color:cadetblue;
+    justify-content: center;
+
+}
+.third{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+    .zero{
+        background-color:cyan;
+    }
+
+
+.second{
+    align-items: center;
+}
